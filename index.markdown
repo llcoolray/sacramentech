@@ -4,8 +4,9 @@
 
 layout: home
 ---
-
 {% for company in site.companies %}
   <h2>{{ company.name }} - {{ company.type }}</h2>
-  <a href="{{ company.url-careers }}" target='blank'>Link</a>
+  <!-- <a href="{{ company.url-careers }}" target='blank'>Link</a> -->
 {% endfor %}
+
+testing

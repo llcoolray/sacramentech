@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<section class="co-grid">
+<section class="card-grid">
 
   {% for company in site.companies %}
   <div class="co-card">
@@ -16,15 +16,26 @@ layout: page
       <h2>{{ company.name }}</h2>
       <h4>{{ company.type }}</h4>
 
+      {{ company.content }}
+
+    </div>
+
+    <div class="co-contacts">
+      <ul class="social-media-list">
+        {%- if company.social_fb -%}<li class="fb"><a href="https://www.facebook.com/{{ company.social_fb| cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>{%- endif -%}
+        {%- if company.social_ig -%}<li class="ig"><a href="https://instagram.com/{{ company.social_ig| cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg></a></li>{%- endif -%}
+        {%- if company.social_li -%}<li class="li"><a href="{{ company.social_li }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>{%- endif -%}
+        {%- if company.social_tw -%}<li class="tw"><a href="https://www.twitter.com/{{ company.social_tw| cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>{%- endif -%}
+      </ul>
+
       {%- if company.url-careers -%}
-        <a href="{{ company.url-careers }}" target='blank'>Link</a>
+        <a class="btn" href="{{ company.url-careers }}" target='blank'>View Jobs</a>
       {%- endif -%}
 
       {%- if company.contact -%}
-        <a href="mailto:{{ company.contact }}" target='blank'>Email</a>
+        <a class="btn" href="mailto:{{ company.contact }}" target='blank'>Email Company</a>
       {%- endif -%}
 
-      {{ company.content }}
     </div>
 
   </div>

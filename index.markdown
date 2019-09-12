@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 <section class="co-grid">
 
@@ -26,7 +26,7 @@ layout: home
 
       {{ company.content }}
     </div>
-    
+
   </div>
   {% endfor %}
 

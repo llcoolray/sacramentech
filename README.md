@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Sacramentech.com
 
-You can use the [editor on GitHub](https://github.com/llcoolray/sacramentech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> The best tech companies and startups in the Greater Sacramento area.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why?
 
-### Markdown
+When I first moved to the Sacramento area in 2015, it was tough to navigate the tech community and find the right position within it. Since that time, I've gained a great understanding of the local players and where the opportunities are. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unfortunately, a central list of the amazing local companies in Sac didn't exist. So, I decided to create it. My hope is that this can help the next generation of Sacramento talent find the job that makes them happiest and most successful in our city. 
 
-```markdown
-Syntax highlighted code block
+The Sacramento tech community is thriving! _You just need to know where to look__. #sacproud
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llcoolray/sacramentech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contribute
+If you have any ideas on how to make this better, please let me know. Also, if you see any information that is incorrect or know of any companies that are missing, please [reach out to me via email](mailto:raysensenbach@gmail.com). 

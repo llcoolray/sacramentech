@@ -1,6 +1,8 @@
 ---
 name: Inductive Automation
-type: Private
+type: Software
 url-careers: https://inductiveautomation.com/about/careers
+image: "assets/ia-img.png"
+logo: "assets/ia-logo.png"
 ---
-Description of the company here. 
+Inductive Automation creates industrial software that empowers  customers to swiftly turn great ideas into reality by removing all technological and economic obstacles.

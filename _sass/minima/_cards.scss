@@ -1,0 +1,47 @@
+/**
+ * Company Cards
+ */
+.co-grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.co-card {
+  box-shadow: rgb(207, 216, 220) 0px 2px 4px 0px;
+  border: 1px solid $grey-color-light;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  display: inline-block;
+  flex-basis: 100%;
+  margin-bottom: 1rem;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: rgba(220, 220, 220, 0.5) 0px 10px 20px;
+  }
+
+  .co-img {
+
+    img {
+      border-radius: 0.25rem 0.25rem 0 0;
+      width: 100%;
+    }
+  }
+
+  .content {
+    padding: 1rem;
+  }
+}
+
+// > 800px
+@include media-query-min($on-laptop) {
+  .co-card {
+    flex-basis: calc(33% - 1rem);
+    margin-right: 0.5rem;
+
+    &:nth-child(3n) {
+      margin-right: 0;
+    }
+  }
+}

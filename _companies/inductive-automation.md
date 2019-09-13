@@ -2,8 +2,8 @@
 name: Inductive Automation
 type: Software
 url-careers: https://inductiveautomation.com/about/careers
-image: "assets/ia-img.png"
-logo: "assets/ia-logo.png"
+image: "assets/img-ia.png"
+logo: "assets/logo-ia.png"
 social_fb: InductiveAutomation
 social_tw: InductiveAuto
 social_ig: inductiveautomation

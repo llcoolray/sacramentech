@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sacramentech.com"
 # twitter_username: ll_coolray
-github_username:  llcoolray
+github_username:  llcoolray/sacramentech
 collections:
   - companies
 

@@ -8,4 +8,4 @@ social_fb: vspglobalcareers
 social_tw: VSPCareers
 social_li: https://www.linkedin.com/company/vsp-global/
 ---
-SkySlope is a customer experience platform for real estate brokerages. Their vision is to keep brokers and agents connected to customers forever.
+VSP Global is a group of international and technologically advanced businesses. Working here isn’t just a job for us; it’s an opportunity to make a difference and contribute at work, within our professions, and across the world.

@@ -130,10 +130,17 @@ a {
   transition: 0.3s ease;
   text-transform: uppercase;
   font-size: 12px;
+  display: flex;
+  align-items: center;
 
   &:hover {
     background-color: $white;
     border-color: $brand-color;
+  }
+
+  .icon {
+    margin-left: 8px;
+    fill: $brand-color;
   }
 }
 

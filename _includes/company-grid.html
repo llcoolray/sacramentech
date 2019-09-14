@@ -25,11 +25,11 @@
       </ul>
 
       {%- if company.url-careers -%}
-        <a class="btn" href="{{ company.url-careers }}" target='blank'>View Jobs</a>
+        <a class="btn" href="{{ company.url-careers }}" target='blank'>View Jobs {% octicon link-external height:14 class:"icon" aria-label:open in new tab %}</a>
       {%- endif -%}
 
       {%- if company.contact -%}
-        <a class="btn" href="mailto:{{ company.contact }}" target='blank'>Email Company</a>
+        <a class="btn" href="mailto:{{ company.contact }}" target='blank'>Email Company {% octicon mail height:14 class:"icon" aria-label:open in new tab %}</a>
       {%- endif -%}
 
     </div>

@@ -1,6 +1,6 @@
 ---
 name: Lionakis
-type: Software
+type: Agency
 url-careers: http://www.lionakis.com/careers/openroles/
 image: "assets/img-lio.png"
 logo: "assets/logo-lio.png"

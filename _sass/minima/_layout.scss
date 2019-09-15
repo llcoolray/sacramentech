@@ -240,3 +240,20 @@
     }
   }
 }
+
+.contribute-cta {
+  margin-bottom: 1rem;
+  background-color: $grey-color-lighter;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+
+  p {
+    margin: 0;
+  }
+  a {
+    margin-left: 1rem;
+  }
+}

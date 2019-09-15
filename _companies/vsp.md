@@ -1,6 +1,6 @@
 ---
 name: VSP Global
-type: Hospital & Health Care
+type: Healthcare
 url-careers: https://vspglobal.com/cms/careers.html
 image: "assets/img-vsp.png"
 logo: "assets/logo-vsp.png"

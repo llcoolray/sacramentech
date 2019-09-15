@@ -3,10 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<div class="about-img">
-  <img src="../assets/community.png" />
-</div>
+<div class="about-img"><img src="../assets/community.png" /></div>
 
 When I first moved to the Sacramento area in 2015, it was tough to navigate the tech community and find the right position within it. Since that time, I've gained a great understanding of the local players and where the opportunities are.
 
@@ -14,6 +11,8 @@ Unfortunately, a central list of the amazing local companies in Sac didn't exist
 
 The Sacramento tech community is thriving! *You just need to know where to look*.
 
-– Ray
+*– Ray*
 
-<a class="btn about" href="{{ site.url }}">View Companies</a>
+<p><a class="btn about" href="{{ site.url }}">View the Companies</a></p>
+
+{%- include contribute-cta.html -%}

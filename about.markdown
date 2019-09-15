@@ -14,5 +14,5 @@ The Sacramento tech community is thriving! *You just need to know where to look*
 *– Ray*
 
 <p><a class="btn about" href="{{ site.url }}">View the Companies</a></p>
-
+ 
 {%- include contribute-cta.html -%}

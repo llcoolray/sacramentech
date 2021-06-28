@@ -9,4 +9,4 @@ social_ig: positioninteractive
 social_li: https://www.linkedin.com/company/position-interactive/
 ---
 
-A full-service creative agency, designing solutions for the digital and physical world.
+A full-service creative agency which designs solutions for the digital and physical worlds.

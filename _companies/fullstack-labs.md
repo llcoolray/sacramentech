@@ -9,4 +9,4 @@ social_fb: FullStackLabs
 social_li: https://www.linkedin.com/company/fullstack-labs/
 ---
 
-Since 2013 FullStack Labs has helped companies of all shapes and sizes design and develop web and mobile apps that transform their businesses. Our 50 person team of exceptionally talented designers, developers and consultants are distributed across our worldwide offices.
+FullStack Labs helps companies of all shapes and sizes design and develop web and mobile apps that transform their businesses. Our 50 person team of exceptionally talented designers, developers and consultants are distributed across our worldwide offices.

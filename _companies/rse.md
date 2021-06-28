@@ -9,4 +9,4 @@ social_tw: rseagency
 social_ig: rseagency
 social_li: https://www.linkedin.com/company/runyon-saltzman/
 ---
-Runyon Saltzman, Inc., Sacramento's largest integrated communications firm. Public relations, advertising, social marketing, media planning & social media.
+Sacramento's largest integrated communications firm. Public relations, advertising, social marketing, media planning & social media.

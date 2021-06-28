@@ -8,4 +8,4 @@ social_fb: talentwebinc
 social_ig: talentwebinc
 social_li: https://www.linkedin.com/company/talentwebinc/
 ---
-Talent Web provides clients rapid access to the most talented, qualified and dedicated employees their budget allows.
+Talent Web is a recruiting service which provides clients rapid access to the most talented, qualified and dedicated employees that their budget allows.
